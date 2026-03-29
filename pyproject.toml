@@ -1,5 +1,5 @@
 [project]
-name = "milagro-bls-binding"
+name = "sw-milagro-bls-binding"
 dynamic = ["version"]
 
 [build-system]
